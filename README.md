@@ -54,9 +54,10 @@ This project is licensed under the MIT License – feel free to modify and share
 
 ## Acknowledgments
  
-Streamlit – For building the web UI.
-TMDB – For movie data and posters.
-scikit-learn – For vectorization and similarity calculations.
+- Streamlit – For building the web UI.
+- TMDB – For movie data and posters.
+- scikit-learn – For vectorization and similarity calculations.
+
 
 
 
