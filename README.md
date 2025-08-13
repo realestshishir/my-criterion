@@ -61,14 +61,15 @@ The project uses The Movie Database (TMDB) dataset.
 You will need a TMDB API key to fetch additional posters or update the dataset.
 Get your API key from: https://www.themoviedb.org/
 
-License
+## License
 This project is licensed under the MIT License – feel free to modify and share.
 
 
-Acknowledgments
+## Acknowledgments
  
 Streamlit – For building the web UI.
 TMDB – For movie data and posters.
 scikit-learn – For vectorization and similarity calculations.
+
 
 
