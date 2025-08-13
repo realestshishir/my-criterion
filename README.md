@@ -14,19 +14,6 @@ The app is built with **Streamlit** for an interactive and easy-to-use interface
 
 ---
 
-## Project Structure
-my_criterion/
-│
-├── app.py # Main Streamlit application
-├── movies.pkl # Movie metadata (titles, IDs, etc.)
-├── posters.pkl # Pre-fetched poster URLs
-├── similarity.pkl # Precomputed similarity matrix
-├── requirements.txt # Python dependencies
-└── README.md # Project documentation
-
-
----
-
 ## How to run it?
 
 ### 1. Clone the Repository
@@ -70,6 +57,7 @@ This project is licensed under the MIT License – feel free to modify and share
 Streamlit – For building the web UI.
 TMDB – For movie data and posters.
 scikit-learn – For vectorization and similarity calculations.
+
 
 
 
